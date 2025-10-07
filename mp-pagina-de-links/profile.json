@@ -1,0 +1,87 @@
+{
+  "name": "Vandeir",
+  "lastName": "Souza",
+  "title": "Desenvolvedor Full Stack",
+  "about": "Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Tenho experiência com JavaScript, TypeScript, Node.js, React, e Next.js. Atualmente, busco aprimorar minhas habilidades em desenvolvimento web e criar soluções práticas e criativas.",
+  
+  "location": "Brasil",
+  "email": "vandeir.souzacruzv@gmail.com",
+  "phone": "+55 (xx) xxxx-xxxx",
+  "profileImage": "/assets/fotoPerfil.jpeg",
+
+  "SocialLinks": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/vandeirdesouza/",
+      "icon" : "./assets/linkedin.svg"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/vandeir95",
+      "icon" : "./assets/github-logo.png"
+
+    },
+    {
+      "name": "Instagram",
+      "href": "https://www.instagram.com/",
+         "icon" : "./assets/instagram.svg"
+    },
+    {
+      "name": "Portfolio",
+      "href": "https://vandeir-portfolio.vercel.app/",
+      "icon": "./assets/portifolhos.png"
+
+    }
+  ],
+
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Fastify",
+    "Prisma",
+    "MySQL",
+    "Git & GitHub"
+  ],
+
+  "projects": [
+    {
+      "name": "Página de Links",
+      "description": "Projeto pessoal com HTML, CSS e JavaScript, inspirado no Linktree.",
+      "url": "https://github.com/vandeir95/mp-pagina-de-links"
+    },
+    {
+      "name": "API com Fastify e Prisma",
+      "description": "API RESTful desenvolvida com Node.js, Fastify e Prisma conectada ao MySQL.",
+      "url": "https://github.com/vandeir95/backend-fastify-prisma"
+    },
+    {
+      "name": "Dashboard Interativo",
+      "description": "Aplicação em Next.js e React com visualização de dados e gráficos interativos.",
+      "url": "https://github.com/vandeir95/dashboard-nextjs"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Infinity School",
+      "course": "Desenvolvimento Web",
+      "year": "2024"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Português",
+      "level": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "level": "Intermediário"
+    }
+  ]
+}
