@@ -13,23 +13,23 @@
     {
       "name": "LinkedIn",
       "href": "https://www.linkedin.com/in/vandeirdesouza/",
-      "icon" : "/assets/linkedin.svg"
+      "icon" : "/mp-pagina-de-links/assets/linkedin.svg"
     },
     {
       "name": "GitHub",
       "href": "https://github.com/vandeir95",
-      "icon" : "/assets/github-logo.png"
+      "icon" : "/mp-pagina-de-links/assets/github-logo.png"
 
     },
     {
       "name": "Instagram",
       "href": "https://www.instagram.com/",
-         "icon" : "/assets/instagram.svg"
+         "icon" : "/mp-pagina-de-links/assets/instagram.svg"
     },
     {
       "name": "Portfolio",
       "href": "https://vandeir-portfolio.vercel.app/",
-      "icon": "/assets/portifolhos.png"
+      "icon": "/mp-pagina-de-links/assets/portifolhos.png"
 
     }
   ],
